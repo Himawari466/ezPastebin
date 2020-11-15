@@ -4,7 +4,7 @@ Licensed under [MIT License](https://mit-license.org/).
   
   
 ### About  
-This tools if for my personal usage only, you are free to use this tools whitout any warranty.  
+This tools is for my personal usage only, you are free to use this tools whitout any warranty.  
   
   
 ### Developer API key
