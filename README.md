@@ -8,7 +8,7 @@ This tools if for my personal usage only, you are free to use this tools whitout
   
   
 ### Developer API key
-In order to use this tools you will need a [pastebin developer key](http://pastebin.com/doc_api/).  
+In order to use this tools you will need a [pastebin developer key](http://pastebin.com/doc_api).  
   
   
 ### python module

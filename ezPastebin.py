@@ -3,7 +3,7 @@
 # 2020 - Himawari466
 # https://mit-license.org/
 #
-# Get developer API key here https://pastebin.com/doc_api/
+# Get developer API key here https://pastebin.com/doc_api
 
 from tqdm import tqdm
 import sys, getopt, time, requests, urllib
